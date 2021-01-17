@@ -1,1 +1,1 @@
-# multidimensional_HVG
+# An HVG algorithm that processes directly on multidimensional time series data
